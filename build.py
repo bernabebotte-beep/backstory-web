@@ -3,7 +3,7 @@ import html,json,posixpath,shutil
 
 ROOT=Path(__file__).parent
 DIST=ROOT/'dist'
-ORIGIN='https://backstory-nueva-web.bernabebotte.chatgpt.site'
+ORIGIN='https://bernabebotte-beep.github.io/backstory-web'
 def esc(s): return html.escape(str(s),quote=True)
 def tr(es,en,lang):return en if lang=='en' else es
 
