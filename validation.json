@@ -1,0 +1,6 @@
+{
+  "html_pages": 30,
+  "local_references_checked": 862,
+  "errors": [],
+  "browser_visual_QA": "Not run: local server EPERM; file navigation blocked by browser policy; hosting source synchronization DNS failure."
+}
